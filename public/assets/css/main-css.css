@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+textarea {
+    min-height: 320px;
+    height: 320px;
+}
+.unselectable {
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#ic-bt:hover {
+  color: red;
+  font-weight: bold;
+}
