@@ -1,3 +1,6 @@
+## Project Name
+Notes App
+
 ## Authors
 |       <img src="vinsen.jpeg" height="200px"/>       |           <img src="henry.jpg" height="200px"/>            |
 | :-------------------------------------------------: | :--------------------------------------------------------: |
